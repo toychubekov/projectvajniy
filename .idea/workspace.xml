@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdf4c4d1-54ae-46f0-ad13-f26808de44a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project vajniy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/culture/Rectangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/each/Rectangle (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/each/Rectangle (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/each/Rectangle (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/hero/image 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/people/Rectangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/power/Rectangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sellers/image 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sellers/image 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sellers/image 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/style.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zfUq8vP7eJ3i6TrhQaI4AlTARo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\project vajniy\src\images\each" />
+      <recent name="C:\Users\user\Desktop\project vajniy\src\images\power" />
+      <recent name="C:\Users\user\Desktop\project vajniy\src\images\culture" />
+      <recent name="C:\Users\user\Desktop\project vajniy\src\images\people" />
+      <recent name="C:\Users\user\Desktop\project vajniy\src\images\sellers" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdf4c4d1-54ae-46f0-ad13-f26808de44a6" name="Default Changelist" comment="" />
+      <created>1634538823181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634538823181</updated>
+      <workItem from="1634538824451" duration="7139000" />
+      <workItem from="1634670988980" duration="4438000" />
+      <workItem from="1634838418078" duration="1781000" />
+      <workItem from="1634840229554" duration="922000" />
+      <workItem from="1634878391389" duration="1799000" />
+      <workItem from="1634880231011" duration="363000" />
+      <workItem from="1634882848311" duration="1271000" />
+      <workItem from="1634884145691" duration="1723000" />
+      <workItem from="1634995838210" duration="1784000" />
+      <workItem from="1634997647882" duration="766000" />
+      <workItem from="1634999737907" duration="746000" />
+      <workItem from="1635001675787" duration="342000" />
+      <workItem from="1635004924515" duration="27000" />
+      <workItem from="1635010979229" duration="15000" />
+      <workItem from="1635082574780" duration="1544000" />
+      <workItem from="1635139394016" duration="194000" />
+      <workItem from="1635139640136" duration="5809000" />
+      <workItem from="1635183052351" duration="1636000" />
+      <workItem from="1635184774793" duration="3327000" />
+      <workItem from="1635312209388" duration="8917000" />
+      <workItem from="1635436518945" duration="10101000" />
+      <workItem from="1635490272176" duration="891000" />
+      <workItem from="1635600479091" duration="797000" />
+      <workItem from="1635743841649" duration="4690000" />
+      <workItem from="1635789361197" duration="2211000" />
+      <workItem from="1635953021464" duration="1737000" />
+      <workItem from="1636044081699" duration="2256000" />
+      <workItem from="1636271073223" duration="2244000" />
+      <workItem from="1636642734578" duration="1309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1635437802991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1635437802991" />
+  </component>
+</project>
